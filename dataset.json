@@ -1,1 +1,10 @@
-"[\n    {\n        \"task\": \"Write a Python function that takes a list of integers and returns a new list containing only the even numbers, sorted in descending order. The function should handle empty lists and use list comprehension.\"\n    },\n    {\n        \"task\": \"Create a regex pattern that matches email addresses with the following requirements: username can contain letters, numbers, dots and hyphens, domain must be valid with at least one dot, and TLD must be 2-6 characters. Test it against valid and invalid email examples.\"\n    },\n    {\n        \"task\": \"Configure an AWS S3 bucket with the following settings: enable versioning, set up server-side encryption with KMS, create a lifecycle policy to transition objects to Glacier after 90 days, and restrict public access. Provide the CloudFormation template or boto3 code.\"\n    }\n]"
+[
+    {
+        "task": "Write a Python function that validates AWS S3 bucket names according to AWS naming rules: 3-63 characters, lowercase letters, numbers and hyphens only, must start and end with letter or number, no consecutive hyphens, and cannot be formatted as IP address",
+        "format": "python"
+    },
+    {
+        "task": "Create a regex pattern that matches valid AWS IAM role ARNs in the format: arn:aws:iam::ACCOUNT_ID:role/ROLE_NAME where ACCOUNT_ID is 12 digits and ROLE_NAME contains alphanumeric characters, hyphens, and forward slashes",
+        "format": "regex"
+    }
+]
