@@ -1,10 +1,12 @@
 [
     {
-        "task": "Write a Python function that validates AWS S3 bucket names according to AWS naming rules: 3-63 characters, lowercase letters, numbers and hyphens only, must start and end with letter or number, no consecutive hyphens, and cannot be formatted as IP address",
-        "format": "python"
+        "task": "Write a Python function that validates AWS IAM policy documents by checking if all required fields are present (Version, Statement) and if each statement contains Action and Resource fields. The function should return True if valid, False otherwise.",
+        "format": "python",
+        "solution_criteria": "Function correctly validates JSON policy structure, checks for required top-level fields, iterates through Statement array, and verifies Action and Resource exist in each statement"
     },
     {
-        "task": "Create a regex pattern that matches valid AWS IAM role ARNs in the format: arn:aws:iam::ACCOUNT_ID:role/ROLE_NAME where ACCOUNT_ID is 12 digits and ROLE_NAME contains alphanumeric characters, hyphens, and forward slashes",
-        "format": "regex"
+        "task": "Create a regex pattern that matches valid AWS S3 bucket names. Bucket names must be 3-63 characters long, contain only lowercase letters, numbers, hyphens, and dots, start and end with a letter or number, and cannot contain consecutive hyphens or dots.",
+        "format": "regex",
+        "solution_criteria": "Regex pattern correctly validates all S3 naming rules including length constraints, allowed characters, valid start/end characters, and restrictions on consecutive special characters"
     }
 ]
