@@ -1,24 +1,23 @@
 [
     {
-        "height": "180 cm",
-        "weight": "75 kg",
-        "goal": "Build muscle mass",
-        "restrictions": "None",
-        "solution_criteria": "Meal plan includes high protein intake (1.8-2.2g per kg body weight), caloric surplus of 300-500 calories, distributed across 4-5 meals with adequate carbs and healthy fats for recovery"
+        "height": "180",
+        "weight": "75",
+        "goal": "Muscle gain and strength building",
+        "restrictions": "No restrictions",
+        "solution_criteria": "Meal plan should include high protein intake (1.6-2.2g per kg body weight), caloric surplus of 300-500 calories, distributed across 4-5 meals with balanced macronutrients"
     },
     {
-        "height": "165 cm",
-        "weight": "58 kg",
-        "goal": "Improve endurance performance",
-        "restrictions": "Vegetarian",
-        "goal_detailed": "marathon training",
-        "solution_criteria": "Meal plan emphasizes complex carbohydrates (55-60% of calories), plant-based protein sources (legumes, tofu, tempeh), electrolyte balance, and energy timing around workouts"
+        "height": "165",
+        "weight": "58",
+        "goal": "Weight loss and endurance improvement",
+        "restrictions": "Vegetarian, no dairy",
+        "solution_criteria": "Meal plan should provide caloric deficit of 300-500 calories, minimum 1.2g protein per kg body weight from plant sources, include whole grains and legumes, with 3 meals and 1-2 snacks"
     },
     {
-        "height": "188 cm",
-        "weight": "82 kg",
-        "goal": "Reduce body fat while maintaining strength",
-        "restrictions": "Gluten-free",
-        "solution_criteria": "Meal plan achieves moderate caloric deficit (300-400 calories below maintenance), maintains high protein intake (1.6-2g per kg), includes gluten-free whole grains, and strategically times carbs around training sessions"
+        "height": "188",
+        "weight": "88",
+        "goal": "Recovery and performance maintenance",
+        "restrictions": "Gluten-free, nut allergy",
+        "solution_criteria": "Meal plan should include adequate carbohydrates for glycogen replenishment, complete proteins at each meal, anti-inflammatory foods, scheduled around training time, with focus on hydration and 4-5 balanced meals totaling maintenance calories"
     }
 ]
