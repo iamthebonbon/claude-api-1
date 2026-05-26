@@ -1,0 +1,23 @@
+[
+    {
+        "height": "180",
+        "weight": "75",
+        "goal": "Muscle gain and strength training",
+        "restrictions": "None",
+        "plan": "Breakfast: Oatmeal with banana, eggs (3), whole wheat toast, orange juice. Mid-morning: Greek yogurt with granola. Lunch: Grilled chicken breast (200g), brown rice, broccoli, olive oil. Pre-workout: Apple with almond butter. Dinner: Salmon (180g), sweet potato, asparagus, lemon dressing. Evening snack: Casein protein shake with berries."
+    },
+    {
+        "height": "165",
+        "weight": "58",
+        "goal": "Weight loss and endurance",
+        "restrictions": "Vegetarian",
+        "plan": "Breakfast: Greek yogurt (150g), berries, flaxseeds, honey. Mid-morning: Apple with 15 almonds. Lunch: Quinoa salad with chickpeas, cucumber, tomato, tahini dressing. Pre-workout: Green tea, banana. Dinner: Lentil curry with spinach, brown rice, steamed broccoli. Evening: Herbal tea, carrot sticks."
+    },
+    {
+        "height": "188",
+        "weight": "92",
+        "goal": "Power and speed improvement",
+        "restrictions": "Gluten-free",
+        "plan": "Breakfast: Rice cakes with peanut butter, scrambled eggs (2), melon. Mid-morning: Protein bar (gluten-free), coconut water. Lunch: Lean beef (200g), white rice, green beans, garlic. Pre-workout: Rice crackers with honey. Dinner: Turkey meatballs (150g), gluten-free pasta, tomato sauce, zucchini. Evening: Almond milk with protein powder."
+    }
+]
