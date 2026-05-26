@@ -1,23 +1,24 @@
 [
     {
-        "height": "180",
-        "weight": "75",
-        "goal": "Muscle gain and strength training",
+        "height": "180 cm",
+        "weight": "75 kg",
+        "goal": "Build muscle mass",
         "restrictions": "None",
-        "plan": "Breakfast: Oatmeal with banana, eggs (3), whole wheat toast, orange juice. Mid-morning: Greek yogurt with granola. Lunch: Grilled chicken breast (200g), brown rice, broccoli, olive oil. Pre-workout: Apple with almond butter. Dinner: Salmon (180g), sweet potato, asparagus, lemon dressing. Evening snack: Casein protein shake with berries."
+        "solution_criteria": "Meal plan includes high protein intake (1.8-2.2g per kg body weight), caloric surplus of 300-500 calories, distributed across 4-5 meals with adequate carbs and healthy fats for recovery"
     },
     {
-        "height": "165",
-        "weight": "58",
-        "goal": "Weight loss and endurance",
+        "height": "165 cm",
+        "weight": "58 kg",
+        "goal": "Improve endurance performance",
         "restrictions": "Vegetarian",
-        "plan": "Breakfast: Greek yogurt (150g), berries, flaxseeds, honey. Mid-morning: Apple with 15 almonds. Lunch: Quinoa salad with chickpeas, cucumber, tomato, tahini dressing. Pre-workout: Green tea, banana. Dinner: Lentil curry with spinach, brown rice, steamed broccoli. Evening: Herbal tea, carrot sticks."
+        "goal_detailed": "marathon training",
+        "solution_criteria": "Meal plan emphasizes complex carbohydrates (55-60% of calories), plant-based protein sources (legumes, tofu, tempeh), electrolyte balance, and energy timing around workouts"
     },
     {
-        "height": "188",
-        "weight": "92",
-        "goal": "Power and speed improvement",
+        "height": "188 cm",
+        "weight": "82 kg",
+        "goal": "Reduce body fat while maintaining strength",
         "restrictions": "Gluten-free",
-        "plan": "Breakfast: Rice cakes with peanut butter, scrambled eggs (2), melon. Mid-morning: Protein bar (gluten-free), coconut water. Lunch: Lean beef (200g), white rice, green beans, garlic. Pre-workout: Rice crackers with honey. Dinner: Turkey meatballs (150g), gluten-free pasta, tomato sauce, zucchini. Evening: Almond milk with protein powder."
+        "solution_criteria": "Meal plan achieves moderate caloric deficit (300-400 calories below maintenance), maintains high protein intake (1.6-2g per kg), includes gluten-free whole grains, and strategically times carbs around training sessions"
     }
 ]
