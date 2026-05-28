@@ -30,29 +30,5 @@ def chat(messages):
     )
     return response.content[0].text
 
-def calculate_pi_to_5_digits():
-    """
-    Calculate pi to the 5th decimal digit using the Machin formula.
-    Returns a float approximation of pi: 3.14159
-    """
-    from decimal import Decimal, getcontext
-    
-    # Set precision high enough for accurate calculation
-    getcontext().prec = 50
-    
-    # Using Machin's formula: pi/4 = 4*arctan(1/5) - arctan(1/239)
-    def arctan(x, num_terms=100):
-        """Calculate arctan using Taylor series"""
-        x = Decimal(x)
-        result = Decimal(0)
-        for n in range(num_terms):
-            term = ((-1) ** n) * (x ** (2 * n + 1)) / (2 * n + 1)
-            result += term
-        return result
-    
-    pi = 4 * (4 * arctan(Decimal(1) / Decimal(5), 200) - arctan(Decimal(1) / Decimal(239), 200))
-    
-    return float(pi)
-
 if __name__ == "__main__":
     main()
